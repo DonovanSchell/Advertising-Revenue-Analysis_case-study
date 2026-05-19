@@ -167,12 +167,7 @@ Insights and recommendations were packaged into a 7-minute executive presentatio
 ├── sql/
 │   ├── 01_create_combined_table.sql
 │   └── 02_analysis_queries.sql
-├── images/
-│   ├── slide_02_executive_summary.png
-│   ├── slide_03_industry_verticals.png
-│   └── slide_05_advertiser_location.png
-└── presentation/
-    └── acme_advertising_h2_2026.pdf
+
 ```
  
 ---
