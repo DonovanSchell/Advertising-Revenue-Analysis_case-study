@@ -30,8 +30,8 @@ The advertising sales organization works with advertisers across multiple countr
 ## Key Insights & Recommendations
  
 *The executive summary below captures the two primary findings and four recommendations from this analysis. See the [full presentation](https://docs.google.com/presentation/d/1idoZZNweP3j8wKal7NhYzhr9BK8cpKCOgabo8i3MhjE/edit?usp=sharing) for the complete slide deck.*
- 
-![Executive Summary](images/slide_02_executive_summary.png)
+
+<img width="960" height="540" alt="slide_02_executive_summary" src="https://github.com/user-attachments/assets/2cf9d99a-c101-4e43-998f-272e4ebfb7da" />
  
 ---
  
@@ -52,8 +52,8 @@ Country D is the fastest growing advertiser market at **+59% YoY**, with broad-b
 - B2B Services: +285% YoY
 **Recommendation:** Dedicate focused sales resources to Country D before competitors do.
  
-![Advertiser Location](images/slide_05_advertiser_location.png)
- 
+<img width="960" height="540" alt="slide_05_advertiser_location" src="https://github.com/user-attachments/assets/5e1fec70-4f9c-4a9c-880d-48b848a1db00" />
+
 ---
  
 ### Insight 3 — B2C and Technology Show Search Pullback (Defense)
@@ -61,8 +61,8 @@ Country D is the fastest growing advertiser market at **+59% YoY**, with broad-b
 B2C Services (-3%) and Technology (-2%) are declining, with Search ad spend as the primary driver of pullback. Advertiser-level analysis suggests this is concentrated in a handful of large accounts rather than broad-based churn.
  
 **Recommendation:** Sales teams should proactively engage B2C and Technology accounts about Search strategy before further revenue erosion.
- 
-![Industry Verticals](images/slide_03_industry_verticals.png)
+
+<img width="960" height="540" alt="slide_03_industry_verticals" src="https://github.com/user-attachments/assets/23c4373f-57f6-4ec6-afb9-9a4163addb32" />
  
 ---
  
