@@ -37,6 +37,8 @@ The advertising sales organization works with advertisers across multiple countr
 Retail is the largest vertical by revenue ($87.4M → $101.3M, **+16% YoY**) and is growing across every country and every ad type — a remarkably consistent signal.
  
 **Recommendation:** Prioritize Retail account expansion and prospecting across all markets.
+
+<img width="960" height="540" alt="slide_03_industry_verticals" src="https://github.com/user-attachments/assets/c870f0d9-8be1-49fd-beec-99e693eb5a02" />
  
 ---
  
@@ -58,8 +60,6 @@ Country D is the fastest growing advertiser market at **+59% YoY**, with broad-b
 B2C Services (-3%) and Technology (-2%) are declining, with Search ad spend as the primary driver of pullback. Advertiser-level analysis suggests this is concentrated in a handful of large accounts rather than broad-based churn.
  
 **Recommendation:** Sales teams should proactively engage B2C and Technology accounts about Search strategy before further revenue erosion.
-
-<img width="960" height="540" alt="slide_03_industry_verticals" src="https://github.com/user-attachments/assets/23c4373f-57f6-4ec6-afb9-9a4163addb32" />
  
 ---
  
@@ -68,6 +68,8 @@ B2C Services (-3%) and Technology (-2%) are declining, with Search ad spend as t
 MSAN Audience is the fastest growing ad type by rate (+9%) but has the smallest absolute gain — suggesting clients are not fully utilizing programmatic display, native, and video ad formats.
  
 **Recommendation:** Explore with clients why MSAN Audience receives less investment relative to its growth trajectory.
+
+<img width="960" height="540" alt="Ad_type" src="https://github.com/user-attachments/assets/4097fda7-861c-44f6-9689-6e31e1c24b71" />
  
 ---
  
