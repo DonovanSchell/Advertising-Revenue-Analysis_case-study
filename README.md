@@ -104,6 +104,7 @@ The two source tables had complementary but non-overlapping dimensions:
  
 - `monthly_summary` contained: Advertiser Location, Industry Vertical, Segment
 - `monthly_breakdown` contained: Ad Type, Ad Location, Revenue
+
 Neither table alone enabled cross-dimensional analysis (e.g. revenue by vertical AND ad type simultaneously). To solve this, both tables were joined on shared keys (`Advertiser` + `Month Year`) using a CTE-based approach, creating a single unified analytical table.
  
 **Key data quality issues resolved:**
