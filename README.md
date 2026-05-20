@@ -119,6 +119,7 @@ Iterative SQL queries were used to analyze YoY revenue trends across four dimens
 2. Ad Type
 3. Industry Vertical × Ad Type (cross-dimensional)
 4. Advertiser Location
+
 Window functions (`RANK()`) were used to rank performance within groups. Conditional aggregation (`CASE WHEN`) enabled side-by-side YoY comparisons in a single query pass.
  
 ### Step 3 — Insight Synthesis
