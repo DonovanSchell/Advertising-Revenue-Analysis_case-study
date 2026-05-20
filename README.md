@@ -49,6 +49,7 @@ Country D is the fastest growing advertiser market at **+59% YoY**, with broad-b
 - Retail: +68% YoY
 - Health: +472% YoY ($333K → $1.9M)
 - B2B Services: +285% YoY
+
 **Recommendation:** Dedicate focused sales resources to Country D before competitors do.
  
 <img width="960" height="540" alt="slide_05_advertiser_location" src="https://github.com/user-attachments/assets/5e1fec70-4f9c-4a9c-880d-48b848a1db00" />
