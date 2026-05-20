@@ -42,4 +42,4 @@ left join cte_breakdown b
 order by s."Advertiser", s."Month Year"
 ;
 
-drop table msft_combined;
+drop table combined;
