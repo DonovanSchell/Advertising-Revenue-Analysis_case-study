@@ -158,7 +158,7 @@ Insights and recommendations were packaged into a 7-minute executive presentatio
 - Segment analysis — exploring whether B2C and Technology pullback is concentrated in specific account tiers
 - Projection modeling using rolling averages or YoY growth extrapolation to quantify expected H2 2026 revenue
 
-**What I learned:**
+**Approach considerations:**
 - Joining tables with different grains requires careful validation — revenue totals should always be cross-referenced against source data
 - Dollar-formatted string values in numeric columns are a common data quality issue worth checking early in any analysis
 - The most actionable insights often come from cross-dimensional analysis that no single source table can answer alone
