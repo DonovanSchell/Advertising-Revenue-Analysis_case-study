@@ -64,11 +64,11 @@ B2C Services (-3%) and Technology (-2%) are declining, with Search ad spend as t
  
 ---
  
-### Insight 4 — MSAN Audience is Underleveraged (Watch)
+### Insight 4 — Audience ad type is Underleveraged (Watch)
  
-MSAN Audience is the fastest growing ad type by rate (+9%) but has the smallest absolute gain — suggesting clients are not fully utilizing programmatic display, native, and video ad formats.
+Audience is the fastest growing ad type by rate (+9%) but has the smallest absolute gain — suggesting clients are not fully utilizing programmatic display, native, and video ad formats.
  
-**Recommendation:** Explore with clients why MSAN Audience receives less investment relative to its growth trajectory.
+**Recommendation:** Explore with clients why Audience receives less investment relative to its growth trajectory.
 
 <img width="960" height="540" alt="Ad_type" src="https://github.com/user-attachments/assets/4097fda7-861c-44f6-9689-6e31e1c24b71" />
  
