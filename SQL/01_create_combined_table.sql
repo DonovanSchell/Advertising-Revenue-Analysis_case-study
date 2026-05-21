@@ -41,5 +41,3 @@ left join cte_breakdown b
     and s."Month Year" = b."Month Year"
 order by s."Advertiser", s."Month Year"
 ;
-
-drop table combined;
