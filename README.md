@@ -83,7 +83,7 @@ Two source tables were provided:
 | `monthly_summary` | Aggregated monthly billed revenue by advertiser, location, industry vertical, and segment |
 | `monthly_breakdown` | Monthly billed revenue by advertiser, ad type, and ad location |
  
-**Analysis period:** H1 (July–December) 2024 and H1 (July–December) 2025, used as a YoY proxy for H2 2026 planning.
+**Analysis period:** H2 (July–December) 2024 and H2 (July–December) 2025, used as a YoY proxy for H2 2026 planning.
  
 **Note on geography:** Advertiser Location refers to the advertiser's billing country, while Ad Location refers to where ads were shown. Advertiser Location was selected as the primary geographic lens since it maps directly to sales territory decisions.
  
