@@ -1,5 +1,5 @@
 # Advertising Analytics: H2 2026 Sales Planning
-### Risks & Opportunities | End-to-End Analytical Case Study
+### Risks & Opportunities | End-to-End Analytical Case Study | Interactive Dashboard
  
 ---
  
