@@ -102,7 +102,7 @@ Two source tables were provided:
 | `monthly_summary` | Aggregated monthly billed revenue by advertiser, location, industry vertical, and segment |
 | `monthly_breakdown` | Monthly billed revenue by advertiser, ad type, and ad location |
  
-**Analysis period:** H2 (July–December) 2024 and H2 (July–December) 2025, used as a YoY proxy for H2 2026 planning.
+**Analysis period:** H2 (July–December)  and H2 (July–December) 2025, used as a YoY proxy for H2 2026 planning.
  
 **Note on geography:** Advertiser Location refers to the advertiser's billing country, while Ad Location refers to where ads were shown. Advertiser Location was selected as the primary geographic lens since it maps directly to sales territory decisions.
  
@@ -156,7 +156,7 @@ Insights and recommendations were packaged into a 7-minute executive presentatio
 ## Analytical Decisions & Assumptions
  
 - **Advertiser Location over Ad Location** — selected as the primary geographic lens because it reflects where sales teams prospect and manage accounts, making it more actionable for a sales manager audience
-- **H1 2024 vs H1 2025 as YoY proxy** — used to control for seasonality when projecting H2 2026 trends
+- **H2 2024 vs H2 2025 as YoY proxy** — used to control for seasonality when projecting H2 2026 trends
 - **Advertiser-level analysis excluded from presentation** — too granular and noisy for a 7-minute executive presentation; used internally to validate vertical-level findings
 - **Revenue reconciled to source data** — minor discrepancies between joined table and source Excel were identified and corrected to ensure accuracy of reported figures
 ---
