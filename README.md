@@ -47,7 +47,7 @@ The dashboard includes:
 - **Interactive filtering** — click on visualizations to filter all views by Ad Type, Segment, Industry Vertical and Advertiser Location
 - **Top N advertiser analysis** — adjustable slider to view top 5-20 advertisers by current period revenue
 - **Geographic revenue distribution** — interactive map showing revenue by advertiser location
-- **YoY comparison metrics** — revenue and campaign count changes with trend indicators
+- **YoY comparison metrics** — revenue and advertiser count changes with trend indicators
 
 ---
  
