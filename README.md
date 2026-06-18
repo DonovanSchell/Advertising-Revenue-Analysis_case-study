@@ -42,12 +42,30 @@ Explore the data interactively through the Tableau dashboard:
 
 <img width="622" height="352" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/7684754a-e58a-495b-b64b-4d1e480748dc" />
 
-The dashboard includes:
-- **Dynamic period selection** — adjust Year, Month Start, and Month End parameters to analyze custom date ranges
-- **Interactive filtering** — click on visualizations to filter all views by Ad Type, Segment, Industry Vertical and Advertiser Location
-- **Top N advertiser analysis** — adjustable slider to view top 5-20 advertisers by current period revenue
-- **Geographic revenue distribution** — interactive map showing revenue by advertiser location
-- **YoY comparison metrics** — revenue and advertiser count changes with trend indicators
+The dashboard consists of four analytical tabs:
+
+**Summary Tab:**
+- Executive KPIs — total revenue, active advertiser count, and campaign metrics with YoY comparisons
+- Dynamic period selection — adjust Year, Month Start, and Month End parameters for custom analysis
+- Interactive filtering — click any dimensional chart (Ad Type, Segment, Vertical, Geography) to filter all views
+- Top N advertiser ranking — adjustable slider (5-20) showing top advertisers by revenue with campaign details
+- Geographic distribution — interactive map showing revenue concentration by advertiser location
+
+**Growth Forecast Tab:**
+- H2 2026 revenue and advertiser projections based on 2024-2025 trends
+- Revenue per advertiser analysis highlighting the growth paradox (advertiser growth outpacing revenue growth)
+- Dual-axis forecast visualization showing advertiser count growth vs. flat revenue per customer
+- Dimensional forecast breakdown by Segment, Vertical, Ad Type, and Geography
+
+**Advertiser Health Tab (RFM Segmentation):**
+- Customer segmentation into Champions, Loyal, At Risk, New, and Churned
+- Revenue concentration analysis showing customer value distribution
+- Segment-level metrics for strategic retention and acquisition planning
+
+**Scenario Planning Tab:**
+- Interactive what-if modeling with three adjustable parameters
+- Revenue impact projections for H2 2026 under different retention, acquisition, and upsell scenarios
+- Side-by-side comparison of H2 2025 Actual vs. H2 2026 Base Forecast vs. Custom Scenario
 
 ---
  
