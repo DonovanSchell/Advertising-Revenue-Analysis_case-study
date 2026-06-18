@@ -3,6 +3,8 @@
 ## Overview
 This dashboard analyzes advertising revenue trends and enables strategic planning for H2 2026. It combines executive summaries, predictive forecasting, customer segmentation, and scenario modeling.
 
+**[📊 View Live Dashboard](https://public.tableau.com/app/profile/donovan.schell/viz/AdvertisingSalesRevenue_17797490324870/AdvertisingRevenueSummary)**
+
 ## Dashboard Tabs
 
 ### 1. Advertising Revenue Summary
