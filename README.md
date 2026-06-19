@@ -42,7 +42,7 @@ Explore the data interactively through the Tableau dashboard:
 
 <img width="622" height="352" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/7684754a-e58a-495b-b64b-4d1e480748dc" />
 
-The dashboard consists of four analytical tabs:
+The dashboard consists of five analytical tabs:
 
 **Summary Tab:**
 - Executive KPIs — total revenue, active advertiser count, and campaign metrics with YoY comparisons
@@ -63,9 +63,16 @@ The dashboard consists of four analytical tabs:
 - Segment-level metrics for strategic retention and acquisition planning
 
 **Scenario Planning Tab:**
-- Interactive what-if modeling with three adjustable parameters
+- Interactive what-if modeling with three adjustable parameters (Retention Rate, New Advertiser Acquisition, Revenue per Advertiser Growth)
 - Revenue impact projections for H2 2026 under different retention, acquisition, and upsell scenarios
 - Side-by-side comparison of H2 2025 Actual vs. H2 2026 Base Forecast vs. Custom Scenario
+- KPI cards highlighting impact of strategic adjustments
+
+**Cohort Retention Analysis Tab:**
+- Month-by-month advertiser retention tracking by cohort (first appearance month)
+- Identifies new advertiser churn patterns — H2 2025 cohort retains at 42% month-1 vs. H2 2024 cohort at 83%
+- Dimensional drill-down by Segment, Vertical, Location, and Ad Type to pinpoint where churn is concentrated
+- Actionable insight: New advertiser onboarding in months 1-2 is a critical retention lever
 
 ---
  
