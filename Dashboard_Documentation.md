@@ -73,27 +73,27 @@ This dashboard analyzes advertising revenue trends and enables strategic plannin
 
 **Key Features:**
 - **Three Adjustable Levers:**
-  - **Retention Rate:** % of current advertisers retained (default 70% based on actual)
-  - **New Advertiser Acquisition:** Count of new customers acquired (default 3,100 based on actual)
-  - **Revenue per Advertiser Growth:** Multiplier on baseline spend (default 1.0 = no change)
+  - **Retention Rate:** % of current advertisers retained (default 70% based on actual H2 2025 retention)
+  - **New Advertiser Acquisition:** Count of new customers acquired (default 1,610 based on baseline growth rate)
+  - **Revenue per Advertiser Growth:** Multiplier on baseline spend (default 0.87 = declining per-advertiser value)
 - **Impact Cards:** Real-time display of projected changes in revenue, advertiser count, and revenue per advertiser
 - **Comparison Charts:** Visual before/after showing H2 2025 Actual vs. H2 2026 Scenario
 
 **How to Use:**
-1. Read parameter explanations on the left to understand each lever
+1. Review the default scenario (~$287M), which aligns with the Growth Forecast baseline
 2. Adjust sliders to model different strategies:
-   - Increase Retention to model a churn-reduction initiative
-   - Increase New Acquisition to model aggressive growth
-   - Increase Revenue per Advertiser to model upsell success
+   - Increase Retention to reduce churn and stabilize advertiser base
+   - Increase New Acquisition to accelerate growth beyond baseline
+   - Increase Revenue per Advertiser to reverse the declining spend trend
 3. Watch KPI cards update with projected impact
 4. Review comparison charts to visualize the change
 
 **Example Scenarios:**
-- **Conservative:** Retention 65%, New Acquisition 2,500, Revenue/Advertiser 1.0
-- **Aggressive:** Retention 80%, New Acquisition 4,000, Revenue/Advertiser 1.1
-- **Balanced:** Retention 75%, New Acquisition 3,500, Revenue/Advertiser 1.05
+- **Conservative:** Retention 65%, New Acquisition 1,200, Revenue/Advertiser 0.87 → ~$260M
+- **Aggressive:** Retention 80%, New Acquisition 2,500, Revenue/Advertiser 1.0 → ~$400M
+- **Balanced:** Retention 75%, New Acquisition 1,800, Revenue/Advertiser 0.93 → ~$330M
 
-**Key Insight:** All three levers matter. Balancing retention + acquisition + upsell is the path to $500M+ H2 2026 revenue.
+**Key Insight:** Default scenario shows revenue growth of only 4% while advertiser count grows 22% — widening the growth paradox. All three levers matter: retention stabilizes the base, acquisition drives growth, and revenue-per-advertiser improvements are essential to profitable scaling.
 
 ---
 
