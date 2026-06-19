@@ -63,10 +63,10 @@ The dashboard consists of five analytical tabs:
 - Segment-level metrics for strategic retention and acquisition planning
 
 **Scenario Planning Tab:**
-- Interactive what-if modeling with three adjustable parameters (Retention Rate, New Advertiser Acquisition, Revenue per Advertiser Growth)
-- Revenue impact projections for H2 2026 under different retention, acquisition, and upsell scenarios
-- Side-by-side comparison of H2 2025 Actual vs. H2 2026 Base Forecast vs. Custom Scenario
-- KPI cards highlighting impact of strategic adjustments
+- Interactive what-if modeling with three adjustable parameters
+- Revenue impact projections for H2 2026 under different retention, acquisition, and revenue-per-advertiser scenarios
+- Default settings align with Growth Forecast baseline (~$287M); adjust to model strategic improvements
+- Compare baseline H2 2026 projection against scenarios showing retention improvements, acquisition scaling, or upsell success
 
 **Cohort Retention Analysis Tab:**
 - Month-by-month advertiser retention tracking by cohort (first appearance month)
