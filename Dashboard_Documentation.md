@@ -153,7 +153,8 @@ This dashboard analyzes advertising revenue trends and enables strategic plannin
 1. **Growth Paradox:** Advertiser count growing 22% YoY while revenue grows only 6%
 2. **Concentration Risk:** Champions segment generates 93% of revenue (1,692 advertisers)
 3. **New Customer Quality:** New advertiser acquisition is working but bringing smaller accounts ($650 avg vs. $88K for Champions)
-4. **Opportunity:** Retention improvements and revenue per advertiser growth can close the gap to 71% H2 2026 revenue growth
+4. **New Advertiser Churn Crisis:** H2 2025 cohort retains at only 42% month-1 vs 83% for H2 2024 cohort — revealing critical onboarding/early engagement gap
+5. **Path to $500M:** Balancing retention improvements + acquisition scaling + revenue per advertiser growth can close the gap to 71% H2 2026 revenue growth
 
 ---
 
