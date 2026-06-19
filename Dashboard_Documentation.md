@@ -97,6 +97,33 @@ This dashboard analyzes advertising revenue trends and enables strategic plannin
 
 ---
 
+### 5. Cohort Retention Analysis
+**Purpose:** Track how advertiser cohorts (groups by first appearance month) retain over time
+
+**Key Features:**
+- **Cohort Heatmap:** Month-by-month retention rates for H2 2024 vs H2 2025 cohorts
+- **Month 1 Retention KPI Cards:** 83.5% (H2 2024) vs 41.8% (H2 2025) with -41.7% churn gap
+- **Dimensional Drill-Down:** Apply filters (Segment, Vertical, Location, Ad Type) to see cohort retention within specific dimensions
+- **Context Filters:** Filters operate at the context level to show retention patterns for subsets of your advertiser base
+
+**How to Use:**
+1. Review the KPI cards at the top showing month-1 retention rates and the churn gap
+2. Examine the heatmap to see retention decay over months
+3. Apply dimensional filters to identify where churn is concentrated (which segments, verticals, geographies)
+4. Darker blue = higher retention; lighter colors = higher churn
+5. Note: H2 2024 cohort has 6 months of data; H2 2025 cohort has up to 3 months (data through Dec 2025)
+
+**Understanding the Data:**
+- **H2 2024 Cohort:** Advertisers who first appeared July-Dec 2024; tracked through Dec 2025 (12+ months follow-up)
+- **H2 2025 Cohort:** Advertisers who first appeared July-Dec 2025; tracked through Dec 2025 (max 3-6 months follow-up)
+- Rows show each cohort; Columns show months since first appearance
+
+**Key Insight:** New advertiser cohorts (H2 2025) have severe month-1 churn (58% drop vs 16% for H2 2024). This is the core constraint driving the growth paradox. Early-stage advertiser experience and onboarding are critical leverage points for improving overall retention and revenue per advertiser.
+
+**Actionable Takeaway:** Focus resources on month 1-2 retention for newly acquired accounts. Segment and geographic filters reveal where churn concentration is highest — start retention initiatives there first.
+
+---
+
 ## Filter & Parameter Guide
 
 ### Filters (Top of each tab)
